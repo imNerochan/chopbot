@@ -1,0 +1,8 @@
+{
+	"name": "Chopbot",
+	"version": "0.0.1a",
+	"description": "ICC Networking Discord bot",
+	"main": "bot.js",
+	"author": "Alonzo Chamlee(Nero)",
+	"dependencies": {}
+}
